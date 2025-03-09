@@ -7,8 +7,8 @@
 #define ZERO_SATELLITE_CONNECTION 0
 #define DEFAULT_BAUD_RATE 9600
 
-const String EMERGENCY_CONTACT_NUM = "+4915566033783";  // Emergency contact number
-const String OWNERS_CONTACT_NUM = "+4915566033783";     // Owner's contact number
+const String EMERGENCY_CONTACT_NUM = "";  // Emergency contact number
+const String OWNERS_CONTACT_NUM = "";     // Owner's contact number
 const double INITIAL_LATITUDE = 50.137931;              // Center Latitude
 const double INITIAL_LONGITUDE = 8.697117;              // Center Longitude
 const double GEOFENCE_RADIUS = 10;                      // Radius in meters
