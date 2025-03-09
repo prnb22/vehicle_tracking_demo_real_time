@@ -27,4 +27,5 @@ This project implements Geofence Security Alerts, Emergency Location Sharing via
 3. Monitor serial output for debugging.
 4. Press buttons for emergency SMS or calls.
 
-
+## Authors
+Anika Tabassum, Prajakta Mestri, Pronab Malaker
