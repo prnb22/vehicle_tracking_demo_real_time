@@ -1,5 +1,5 @@
 # Project Name
-Live Vehicle Monitoring & Alert System
+E-Bike Tracking and Alert System
 
 ## Description
 This project implements Geofence Security Alerts, Emergency Location Sharing via SMS, and Emergency Call Assistance using Arduino, SIM900 GSM module, and NEO-6M GPS.
